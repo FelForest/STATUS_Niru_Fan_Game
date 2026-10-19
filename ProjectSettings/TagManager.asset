@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Node
+  - Limit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Obstruction
+  - Target
+  - NodeJudgment
+  - Node
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2617076637
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: City
+    uniqueID: 3868123611
+    locked: 0
+  - name: Object
+    uniqueID: 2488190847
+    locked: 0
+  - name: Player
+    uniqueID: 4239984901
+    locked: 0
+  - name: Water
+    uniqueID: 722364335
+    locked: 0
+  - name: Node
+    uniqueID: 2081838567
+    locked: 0
+  m_RenderingLayers:
+  - Default

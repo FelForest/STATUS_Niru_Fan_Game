@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7727513019428861273
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7936893626989555147}
+  - component: {fileID: 5682623958877663582}
+  m_Layer: 0
+  m_Name: NodeManager
+  m_TagString: Node
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7936893626989555147
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7727513019428861273}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -7, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5682623958877663582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7727513019428861273}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b092684a31cf5b7439318ec764d81037, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  UpNodePrefab: {fileID: 1953290353334739671, guid: 0cf7807e25992ec49b8fedc507d54cdb, type: 3}
+  DownNodePrefab: {fileID: 3866633029771921271, guid: e0214105d315b704cbca04b9d0130d65, type: 3}
+  LeftNodePrefab: {fileID: 2667108736303538811, guid: 5186e5b82d441384a9dac55b7d53a850, type: 3}
+  RightNodePrefab: {fileID: 450411817275139963, guid: 4ea317822675c0c4ba4a9724fb2e162d, type: 3}
+  num: 10
+  Speed: 5
+  NodeInfos:
+  - direction: 0
+    time: 3.2
+  - direction: 3
+    time: 4.11
+  - direction: 2
+    time: 5.03
+  - direction: 3
+    time: 5.89
+  - direction: 1
+    time: 6.76
+  - direction: 0
+    time: 7.68
+  - direction: 1
+    time: 8.53
+  - direction: 0
+    time: 9.41
+  - direction: 2
+    time: 10.33
+  - direction: 3
+    time: 11.21
+  - direction: 2
+    time: 12.13
+  - direction: 3
+    time: 13.04
+  - direction: 1
+    time: 13.9
+  - direction: 1
+    time: 14.34
+  - direction: 0
+    time: 15.68
+  - direction: 2
+    time: 17.41
+  - direction: 3
+    time: 17.65
+  - direction: 0
+    time: 17.89
