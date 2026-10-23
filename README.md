@@ -1,3 +1,4 @@
+<img width="2212" height="781" alt="image (6)" src="https://github.com/user-attachments/assets/7a2ac196-e6a9-486c-9f47-a7bd327e322b" />
 # 니르 공룡게임
 
 ## 프로젝트 소개
@@ -35,9 +36,7 @@
 - 원본 텍스처를 상하좌우 4방향으로 지정한 두께만큼 이동시켜 윤곽선을 생성했습니다.
 - 생성된 윤곽선을 원본 텍스처와 합성하여 장애물의 형태를 강조했습니다.
 
-**Shader Graph**
 
-[셰이더 그래프 이미지 삽입]
 
 ### 결과
 
@@ -45,7 +44,8 @@
 
 **적용 전 / 적용 후**
 
-[비교 이미지 삽입]
+<img width="875" height="284" alt="스크린샷 2026-10-22 090323" src="https://github.com/user-attachments/assets/8dec26e7-5266-487e-81eb-555a3f6e1c94" />
+<img width="873" height="283" alt="스크린샷 2026-10-22 090311" src="https://github.com/user-attachments/assets/0de950a9-c5a7-4edf-8fe7-bc33703271e1" />
 
 ### 회고
 
@@ -68,15 +68,11 @@ Noise와 UV Offset을 활용하여 물결에 따라 반사 이미지가 왜곡�
 - Noise의 X축 좌표만 시간에 따라 이동시켜 지속적으로 변화하는 패턴을 생성했습니다.
 - 생성된 Noise를 반사 텍스처의 UV Offset에 반영하여 물결에 따른 반사 왜곡을 표현했습니다.
 
-**Shader Graph**
-
-[셰이더 그래프 이미지 삽입]
-
 ### 결과
 
 시간에 따라 움직이는 물결과 반사 왜곡 효과를 통해 정적인 배경에 움직임을 추가하고, 화면의 시각적 완성도를 높였습니다.
 
-[결과 이미지 또는 GIF 삽입]
+<img width="1038" height="587" alt="image (7)" src="https://github.com/user-attachments/assets/893b3233-c634-49e1-a981-18a48d336b75" />
 
 ---
 
@@ -106,19 +102,11 @@ Noise와 UV Offset을 활용하여 물결에 따라 반사 이미지가 왜곡�
 
 - 하늘 배경은 Shader를 통해 움직이도록 구현하여 다른 배경 레이어와 함께 자연스럽게 이동하도록 구성했습니다.
 
-**구현 코드**
-
-[코드 이미지 또는 코드 블록 삽입]
-
-**Shader Graph**
-
-[배경 셰이더 그래프 삽입]
-
 ### 결과
 
 배경 레이어 간 이동 속도 차이와 연속적인 스크롤을 통해 원근감을 표현하고, 플레이어가 앞으로 진행하는 느낌을 강화했습니다.
 
-[배경 스크롤 GIF 삽입]
+<img width="1080" height="608" alt="Video Project 3 (1)" src="https://github.com/user-attachments/assets/6b731bb2-5b33-4367-8b30-d3f30f636033" />
 
 ### 회고
 
