@@ -1,4 +1,3 @@
-<img width="2212" height="781" alt="image (6)" src="https://github.com/user-attachments/assets/7a2ac196-e6a9-486c-9f47-a7bd327e322b" />
 # 니르 공룡게임
 
 ## 프로젝트 소개
