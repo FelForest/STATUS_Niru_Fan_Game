@@ -44,8 +44,8 @@
 
 **적용 전 / 적용 후**
 
-<img width="875" height="284" alt="스크린샷 2026-10-22 090323" src="https://github.com/user-attachments/assets/8dec26e7-5266-487e-81eb-555a3f6e1c94" />
 <img width="873" height="283" alt="스크린샷 2026-10-22 090311" src="https://github.com/user-attachments/assets/0de950a9-c5a7-4edf-8fe7-bc33703271e1" />
+<img width="875" height="284" alt="스크린샷 2026-10-22 090323" src="https://github.com/user-attachments/assets/8dec26e7-5266-487e-81eb-555a3f6e1c94" />
 
 ### 회고
 
